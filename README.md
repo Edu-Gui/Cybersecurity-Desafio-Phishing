@@ -22,3 +22,8 @@ Credential Harvester Attack Method
 Endereço IP da máquina local
 
 URL utilizada para clonagem:http://facebook.com
+
+
+<img width="648" height="534" alt="phishing" src="https://github.com/user-attachments/assets/573d107f-a618-4f09-9730-5ad4bcee8c90" />
+
+
